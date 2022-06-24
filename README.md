@@ -10,7 +10,7 @@
 - SFTP、Edit and browse pictures online
 - Redis
 - Monitor CPU, memory, and disk usage
-8、Free
+- Free
 <img alt="" src="demo/1.png">
 <img alt="" src="demo/2.png">
 <img alt="" src="demo/3.png">
